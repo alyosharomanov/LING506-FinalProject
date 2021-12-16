@@ -1,4 +1,5 @@
 # LING506-FinalProject
+#### Emily Roller, Jordyn Allen, Alyosha Romanov
 
 ## To run the Baseline classifiers:
 
